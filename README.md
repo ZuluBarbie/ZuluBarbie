@@ -21,15 +21,23 @@ Aspiring Software & Embedded Systems Engineer
 
 ### 🛠️ Tech Stack
 
-**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+</p>
 
-`C` • `C++` • `Python` • `Java` • `SQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+**Also working with:** SQL
 
 ### 🚀 Currently Building
 
 - 🎮 Tic-Tac-Toe in C
-- ✊🏾 Rock-Paper-Scissors in C
-- ⚡ More Computer Engineering projects coming soon...
+
+### 🚀 Projects
+
+- ✊🏾 [Rock-Paper-Scissors in C](https://github.com/ZuluBarbie/rock_paper_scissors_C) — **Completed**
 
 ### 🤝 Connect With Me
 
