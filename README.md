@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Noluthando</h1>
-<p align="center"><strong>Computer Engineering student at CPUT ⚡</strong><br>
+<p align="center"><strong>Computer Engineering student in CPT ⚡</strong><br>
 Aspiring Software & Embedded Systems Engineer</p>
 
 ## 👩🏾‍💻 About me
