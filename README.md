@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏾, I'm Noluthando</h1>
+<h1 align="center">Hi 👋🏾, I'm Basi</h1>
 <p align="center"><strong>Computer Engineering student in CPT ⚡</strong><br>
 Aspiring Software & Embedded Systems Engineer</p>
 
