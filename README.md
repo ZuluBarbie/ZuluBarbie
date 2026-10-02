@@ -23,7 +23,9 @@ building practical projects that connect programming, electronics, and everyday 
 Building reliable programs, improving input handling, writing tests, and documenting
 my projects clearly. My latest projects include Tic-Tac-Toe in C, Sudoku in C++, and Snake in C#.
 
-**Planned as part of my six-project goal before graduation:**
+## 🎯 Next focus
+
+Planned as part of my six-project goal before graduation:
 
 - **4-bit Arithmetic Logic Unit (ALU) — Planned for 2026:** binary arithmetic, logic operations, and processor fundamentals.
 - **Arduino Temperature Monitor — Planned for 2027:** sensor readings, temperature display, and an LED threshold alert.
