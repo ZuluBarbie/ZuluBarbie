@@ -4,7 +4,7 @@ Aspiring Software & Embedded Systems Engineer</p>
 
 ## 👩🏾‍💻 About me
 
-I'm studying Computer Engineering at Cape Peninsula University of Technology and
+I'm studying Computer Engineering in Cape Town and
 building practical projects that connect programming, electronics, and everyday problems.
 
 - 🌱 Strengthening my C, C++, C#, Python, Java, and JavaScript skills.
