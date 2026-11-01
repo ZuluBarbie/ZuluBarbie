@@ -9,7 +9,7 @@ building practical projects that connect programming, electronics, and everyday 
 
 - 🌱 Strengthening my C, C++, C#, Python, Java, and JavaScript skills.
 - 🔧 Exploring software engineering, embedded systems, and electronics.
-- 🎯 Showcasing ten projects in my interactive portfolio: nine apps and games, plus a verified 1-bit NAND ALU coursework case study.
+- 🎯 Showcasing projects in my interactive portfolio: apps and games, plus a verified 1-bit NAND ALU coursework case study.
 - 🌍 Open to internships, work-integrated learning (WIL), and international collaboration.
 
 ## 🛠️ Skills & tools
