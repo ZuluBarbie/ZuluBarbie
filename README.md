@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋🏾, I'm Basi</h1>
-<p align="center"><strong>Computer Engineering student at CPUT ⚡</strong><br>
+<p align="center"><strong>Computer Engineering student in CPT ⚡</strong><br>
 Aspiring Software &amp; Embedded Systems Engineer</p>
 
 ## 👩🏾‍💻 About me
 
-Building practical software and electronics projects in Cape Town. Open to internships, work-integrated learning (WIL) and collaboration.
+Building practical software and electronics projects in Cape Town. Open to internships, work-integrated learning (WIL) and international collaboration.
 
 ## 🛠️ Skills & tools
 
@@ -14,13 +14,14 @@ Building practical software and electronics projects in Cape Town. Open to inter
 
 ## 🌱 Current focus
 
-Building reliable programs, testing and documenting my work. Led a [1-bit NAND ALU](https://zulubarbie.github.io/alu.html) group project covering design, simulation and verification.
+Building reliable programs, testing and documenting my work. 
+Led a [1-bit NAND ALU](https://zulubarbie.github.io/alu.html) group project covering design, simulation, building and verification.
 
 ## 🎯 Next focus
 
-Arduino temperature monitor — planned for 2027.
+Arduino temperature monitor — planned for 2027: sensor readings, temperature display and an LED threshold alert.
 
-## 🤝 Connect with me
+## 🤝 Connect with me!
 
 [LinkedIn](https://www.linkedin.com/in/noluthandobasi/) · [Portfolio](https://zulubarbie.github.io/)
 
