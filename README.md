@@ -28,9 +28,9 @@ quick-look previews, and an interactive NAND-gate playground.
 
 ## 🎯 Next focus
 
-Planned as part of my six-project goal before graduation:
+Progress toward my six-project goal before graduation:
 
-- **4-bit Arithmetic Logic Unit (ALU) — Planned extension:** build on my verified 1-bit NAND ALU coursework, exploring multi-bit arithmetic, carry/borrow paths, and timing validation.
+- **1-bit NAND Arithmetic Logic Unit (ALU) — Completed in 2026:** led this CPUT group project as its primary contributor, covering NAND-based addition and subtraction, simulation, documentation, and verified hardware.
 - **Arduino Temperature Monitor — Planned for 2027:** sensor readings, temperature display, and an LED threshold alert.
 
 ## 🤝 Connect with me
