@@ -4,7 +4,7 @@ Aspiring Software &amp; Embedded Systems Engineer</p>
 
 ## 👩🏾‍💻 About me
 
-Building practical software and electronics projects in Cape Town. Open to internships, work-integrated learning (WIL) and international collaboration.
+I build stuff, practical software and electronics projects. Open to internships, work-integrated learning (WIL) and international collaboration.
 
 ## 🛠️ Skills & tools
 
